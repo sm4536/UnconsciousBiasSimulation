@@ -14,4 +14,4 @@ http://localhost:5000/createProfile/<email>
 
 ## View Profile
 
-http://localhost:5000/viewProfile
+http://localhost:5000/viewProfile/<email>
